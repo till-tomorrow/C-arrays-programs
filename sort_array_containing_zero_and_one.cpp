@@ -1,9 +1,11 @@
-#include<iostream>
-using namespace std;
-
+// Write a C++ program to sort an array containing only 0 and 1
 // to run program 
 // g++ -o sort_array_containing_zero_and_one sort_array_containing_zero_and_one.cpp
 // ./sort_array_containing_zero_and_one 
+
+#include<iostream>
+using namespace std;
+
 
 int main()
 {
