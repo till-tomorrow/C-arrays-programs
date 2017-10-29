@@ -34,6 +34,7 @@ git checkout -b branch-name
 git add .
 git commit -m 'Commit message'
 git push origin branch-name
+thank you
 
     Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repository)
     Wait for your PR review and merge approval!!
