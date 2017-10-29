@@ -5,6 +5,9 @@ LIST OF PROGRAMS:
 #1
 Write a C++ program to swap first and last element of an integer 1-d array.
 
+#2
+Write a C++ program to reverse the element of an integer 1-D array.
+
 
 
 
