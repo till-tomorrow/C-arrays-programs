@@ -11,6 +11,9 @@ Write a C++ program to reverse the element of an integer 1-D array.
 #3
 Write a C++ program to find the largest and smallest element of an array.
 
+#4
+Write a C++ program to find the sum and average of a one-dimensional integer array.
+
 
 
 
