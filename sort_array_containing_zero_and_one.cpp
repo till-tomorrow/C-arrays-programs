@@ -38,17 +38,24 @@ int main()
 
 
     // print array
-    cout << "\nYour array :";
-	for(i=0;i<n;i++) 
+    cout << "\nYour initial array :";
+    for(i=0;i<n;i++) 
     {
         cout << A[i] << " ";
     }
 
-    // print sorted array
-    cout << "\nsorted array :";
+    // sorted array
     for(i=0; i<n;i++)
     {
-        tmp = i<nb_zero?0:1 ;
-        cout << tmp << " ";
+        tmp = i < nb_zero? 0 : 1;
+	A[i] = tmp;
     }
+
+    // print sorted array
+    cout << "\nYour array sorted: ";
+    for(i=0; i<n;i++)
+    {
+      cout << A[i] << " ";
+    }
+
 }
