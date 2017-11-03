@@ -24,7 +24,7 @@ int main()
 			Arr[j]=temp;
 		}
 	else
-		for(i=0,j=n-1;i<n/2 - 1;i++,j--)
+		for(i=0,j=n-1;i<(n/2) - 1;i++,j--)
 		{
 			temp=Arr[i];
 			Arr[i]=Arr[j];
