@@ -15,21 +15,13 @@ int main()
 		cout<<"Enter element "<<i+1<<":";
 		cin>>Arr[i];
 	}
-
-	if(n%2 == 0)
 		for(i=0,j=n-1;i<n/2;i++,j--)
 		{
 			temp=Arr[i];
 			Arr[i]=Arr[j];
 			Arr[j]=temp;
 		}
-	else
-		for(i=0,j=n-1;i<(n/2) - 1;i++,j--)
-		{
-			temp=Arr[i];
-			Arr[i]=Arr[j];
-			Arr[j]=temp;
-		}
+	
 
 	cout<<"\nReverse array"<<endl;
 
