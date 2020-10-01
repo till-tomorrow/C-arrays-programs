@@ -1,6 +1,10 @@
 # C++ arrays-programs
 
-LIST OF PROGRAMS:
+# What is an array
+
+Basically we define array a data structure, which can store a fixed-size collection of elements of the same data type.
+
+# LIST OF PROGRAMS:
 
 
 Write a C++ program to swap first and last element of an integer 1-d array.
